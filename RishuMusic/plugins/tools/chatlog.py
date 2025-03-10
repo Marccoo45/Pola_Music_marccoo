@@ -36,7 +36,7 @@ async def join_watcher(_, message):
             count = await app.get_chat_members_count(chat.id)
 
             msg = (
-                f"#𝗝𝗢𝗜𝗡_𝗡𝗘𝗪_𝗚𝗥𝗢𝗨𝗣\n\n"
+                f"#𝐉ᴏɪɴ_𝐍ᴇᴡ_𝐆ʀᴏᴜᴘ\n\n"
                 f"⦿───────────────────⦿\n\n"
                 f"◎ ᴄʜᴀᴛ ɴᴀᴍᴇ ▸ {message.chat.title}\n"
                 f"◎ ᴄʜᴀᴛ ɪᴅ ▸ {message.chat.id}\n"
