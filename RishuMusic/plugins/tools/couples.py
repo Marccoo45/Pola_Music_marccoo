@@ -14,8 +14,8 @@ from RishuMusic.mongo.couples_db import _get_image, get_couple
 POLICE = [
     [
         InlineKeyboardButton(
-            text="• ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ •",
-            url=f"https://t.me/VIP_MUSIC_VC_BOT?startgroup=true",
+            text="⌯ ʌᴅᴅ ϻє ⌯",
+            url=f"https://t.me/sohini_music_BOT?startgroup=true",
         ),
     ],
 ]
