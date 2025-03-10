@@ -24,11 +24,11 @@ async def start(_, msg):
           InlineKeyboardButton("✙ ᴀᴅᴅ ᴍᴇ ✙", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("• ʜᴇʟᴘ •", url="https://t.me/rishu1286"),
-          InlineKeyboardButton("• ᴏᴡɴᴇʀ •", url="https://t.me/rishu1286"),
+          InlineKeyboardButton("• ʜᴇʟᴘ •", url="https://t.me/Paracetamol650mge"),
+          InlineKeyboardButton("• ᴏᴡɴᴇʀ •", url="https://t.me/Paracetamol650mge"),
           ],
                [
-                InlineKeyboardButton("• ɴᴇᴛᴡᴏʀᴋ •", url=f"https://t.me/ur_rishu_143"),
+                InlineKeyboardButton("• ɴᴇᴛᴡᴏʀᴋ •", url=f"https://t.me/shubhos_timeline"),
 ],
 [
 InlineKeyboardButton("• ʀᴇᴘᴏ •", url=f"https://github.com/RishuBot/RishuManagement"),
